@@ -1,0 +1,41 @@
+This is a basic mod I want to use and mess around with for learning the basics of modding Terraria!
+
+I'm new to making mods, but I have silly ideas I want to add in.
+
+Expect this mod to have random things added. Will update as I go.
+
+Contact Me For Bugs/Errors: DISCORD - Chagmen#4975
+
+Notice: I may not answer all messages, but I will keep them in mind.
+
+Compatibility:
+UNKNOWN! I'm relatively new to coding, so don't expect this mod to be 100% compatible with any other mods(or even multiplayer)!
+
+
+Version 0.0.2
+
+Fixed actual version number.
+
+4 new items
+
+
+Reworked Sawblade Staff
+
+Can no longer use in a non-expert world.*
+
+Sawblade Staff no longer scales with progression.** Must be upgraded through 2 paths, and cannot gain modifiers anymore.
+The two paths are noted as "Tier" upgrades and "Rarity Upgrades". ***
+
+Tier upgrades increase base crit, knockback and projectile reliability(hits per projectile, hit speed, ect.).
+Rarity Upgrades change the staff's behavior, increases damage and overall speed.
+All upgrades increases the base price, but is it worth it?
+
+
+* Reason being I'm still learning constructors and method extenders, so I initially wanted to make the crafting/availability Expert only, but I lack the expertise.
+
+** Still under development.
+
+*** These are all separate items, yeah. It would be easier to modify values based on progression, yeah but I wanted to avoid seeing "+400% Damage" when checking it's stats.
+154 itterations of this weapon in case you're curious.
+
+Re-organized files so items from this mod must be acquired again.
